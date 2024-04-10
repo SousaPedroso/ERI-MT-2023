@@ -1,4 +1,4 @@
-**O link para o artigo será divulgado em breve.**
+Leia o artigo por [aqui](https://doi.org/10.5753/eri-mt.2023.236474).
 
 Existem dois códigos em jupyter notebook, o "Cross-dataset Fair Evaluation to evaluate COVID-19 chest X-rays models.ipynb" possui todas as instruções e processos definidos para que seja possível obter os resultados. Aqui também está como são obtidos os conjuntos de dados utilizados. O notebook separa em seções os processos definidos. Ao executar, fique atento dentro da seção "COHEN dataset" às duas subseções "Baseline" e "Separação de visualizações (PA, AP, AP Supine e L)", que correspondem a 1º e 2º iterações definidas no artigo. Nos notebooks, caso haja espaço em disco para todas as imagens ou já tenha todo o conjunto baixado, fique a vontae para ignorar as etapas de coleta dos dados. No arquivo "Visualize_Results" são demonstradas as formas de avaliação dos resultados, por reconhecimento de base de dados e por classe. Cada notebook está separado por escopo, fique atento a executar cada conjunto de instruções por baseline, cross-validation, metadados ou metadados + cross-validation.
 
